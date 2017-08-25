@@ -24,7 +24,7 @@ import org.springframework.web.client.AsyncRestTemplate;
  */
 public abstract class AbstractAsyncClient {
 
-	protected String OXFORD_BASE_URL = "https://api.projectoxford.ai";
+	protected String OXFORD_BASE_URL = "https://eastus2.api.cognitive.microsoft.com";
 
 	protected AsyncRestTemplate client;
 
