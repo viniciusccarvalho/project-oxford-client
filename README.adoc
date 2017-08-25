@@ -1,0 +1,3 @@
+== Project Oxford Java bindings
+
+Java bindings for the Face API from Azure's project https://azure.microsoft.com/en-us/services/cognitive-services/face/[oxford] 
